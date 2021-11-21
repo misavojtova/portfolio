@@ -2,6 +2,7 @@ import React from "react";
 import video from "./videos/work.mp4";
 import photo from "./images/pro-2.png";
 import "./index.css";
+import photoNasa from "./images/pro-6.png";
 
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { CgProfile } from "react-icons/cg";
@@ -13,24 +14,52 @@ function App() {
       <section className='main-wrapper'>
         <div className='navigation'>
           <div className='icons-wrapper'>
-            <icon>{<AiFillHome />}</icon>
-            <icon>{<CgProfile />}</icon>
-            <icon>{<BsGithub />}</icon>
-            <icon>{<BsLinkedin />}</icon>
+            <span>{<AiFillHome />}</span>
+            <span>{<CgProfile />}</span>
+            <span>
+              <a
+                href='https://github.com/misavojtova'
+                target='_blank'
+                rel='noreferrer'
+              >
+                {<BsGithub />}
+              </a>
+            </span>
+            <span>
+              <a
+                href='https://www.linkedin.com/in/michaela-vojtova-917782170/'
+                target='_blank'
+                rel='noreferrer'
+              >
+                {<BsLinkedin />}
+              </a>
+            </span>
           </div>
         </div>
         <div className='flip-card-wrapper'>
-          <Flip photo={photo}>
-            This Project was made in collaboration with other junior developer.
-            We worked in team of five people. I worked on home page.
+          <Flip
+            href='https://misavojtova.github.io/project-nasa/'
+            photo={photoNasa}
+          >
+            <p>
+              Project <u>Nasa</u> was built by a group of Junior Developers for
+              learning purposes. Fetching data from API, improving Html, Css,
+              JavaScript and React.js.
+            </p>
+          </Flip>
+          <Flip href='https://vaniatavares.github.io/Project1/' photo={photo}>
+            <p>
+              Project <u>From Zero</u> was made in collaboration with Junior
+              Developers in group of five for practising Html, Css, Git Bash and
+              Github.
+            </p>
           </Flip>
           <Flip />
           <Flip />
           <Flip />
           <Flip />
-          <Flip />
         </div>
-        <h3> Michaela Vojtova</h3>
+        <p className='my-name'> Michaela Vojtova</p>
       </section>
     </main>
   );
@@ -38,18 +67,7 @@ function App() {
 
 export default App;
 
-function icon({ children }) {
-  return <span>{children}</span>;
-  // return (
-  //   <>
-  //     <span>{<BsGithub />}</span>
-  //     <span>{<BsLinkedin />}</span>
-  //     <span>{<CgProfile />}</span>
-  //   </>
-  // );
-}
-
-function Flip({ photo, children }) {
+function Flip({ photo, children, href }) {
   return (
     <div className='flip-container'>
       <div className='flip-card'>
@@ -57,13 +75,10 @@ function Flip({ photo, children }) {
           <img src={photo} alt='' />
         </div>
         <div className='back'>
-          <p>{children}</p>
-          <button>
-            <a
-              href='https://vaniatavares.github.io/Project1/'
-              target='_blank'
-              rel='noreferrer'
-            >
+          <div className='demo-text'>{children}</div>
+
+          <button className='demo-btn'>
+            <a href={href} target='_blank' rel='noreferrer'>
               Demo Here
             </a>
           </button>
