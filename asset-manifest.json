@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume-2021/static/css/main.da796938.chunk.css",
+    "main.js": "/resume-2021/static/js/main.bc169ff9.chunk.js",
+    "main.js.map": "/resume-2021/static/js/main.bc169ff9.chunk.js.map",
+    "runtime-main.js": "/resume-2021/static/js/runtime-main.33457ffc.js",
+    "runtime-main.js.map": "/resume-2021/static/js/runtime-main.33457ffc.js.map",
+    "static/js/2.0db14ba5.chunk.js": "/resume-2021/static/js/2.0db14ba5.chunk.js",
+    "static/js/2.0db14ba5.chunk.js.map": "/resume-2021/static/js/2.0db14ba5.chunk.js.map",
+    "index.html": "/resume-2021/index.html",
+    "static/css/main.da796938.chunk.css.map": "/resume-2021/static/css/main.da796938.chunk.css.map",
+    "static/js/2.0db14ba5.chunk.js.LICENSE.txt": "/resume-2021/static/js/2.0db14ba5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/resume-2021/static/media/Abel-Regular.3843f456.ttf",
+    "static/media/pro-2.8acb3b49.png": "/resume-2021/static/media/pro-2.8acb3b49.png",
+    "static/media/pro-6.94846aff.png": "/resume-2021/static/media/pro-6.94846aff.png",
+    "static/media/work.068412bf.mp4": "/resume-2021/static/media/work.068412bf.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33457ffc.js",
+    "static/js/2.0db14ba5.chunk.js",
+    "static/css/main.da796938.chunk.css",
+    "static/js/main.bc169ff9.chunk.js"
+  ]
+}
