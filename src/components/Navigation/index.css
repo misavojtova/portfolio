@@ -28,4 +28,8 @@
     height: auto;
     width: auto;
   }
+
+  .icons-wrapper {
+    flex-direction: row;
+  }
 }

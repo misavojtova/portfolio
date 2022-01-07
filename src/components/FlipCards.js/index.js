@@ -1,20 +1,16 @@
 import React from "react";
-import photo from "../../images/pro-2.png";
-import photoNasa from "../../images/pro-6.png";
-import game from "../../images/games-12.png";
-import music from "../../images/adele.jpeg";
-import travel from "../../images/travel-1.png";
-import travel4 from "../../images/travel4.png";
+import project1 from "../../images/project1.png";
+import nasa from "../../images/nasa.png";
+import game from "../../images/game.png";
+import adele from "../../images/adele.jpeg";
+import travel from "../../images/travel.png";
 
 import Flip from "../../components/Flip";
 import "./index.css";
 function FlipCards() {
   return (
     <>
-      <Flip
-        href='https://misavojtova.github.io/project-nasa/'
-        photo={photoNasa}
-      >
+      <Flip href='https://misavojtova.github.io/project-nasa/' photo={nasa}>
         <p>
           Project <u>Nasa</u> was built by a group of Junior Developers for
           learning purposes. Fetching data from API, improving Html, Css,
@@ -22,7 +18,7 @@ function FlipCards() {
         </p>
       </Flip>
 
-      <Flip href='https://misavojtova.github.io/music-app-final/' photo={music}>
+      <Flip href='https://misavojtova.github.io/music-app-final/' photo={adele}>
         <p>
           Project <u>Music App</u> was built in 24 hours in collaboration with
           Junior Developers to take part in competition which was organized by
@@ -30,7 +26,7 @@ function FlipCards() {
         </p>
       </Flip>
 
-      <Flip href='https://vaniatavares.github.io/Project1/' photo={photo}>
+      <Flip href='https://vaniatavares.github.io/Project1/' photo={project1}>
         <p>
           Project <u>From Zero</u> was made in collaboration with Junior
           Developers in group of five for practising Html, Css, Git Bash and
@@ -48,7 +44,7 @@ function FlipCards() {
 
       <Flip
         href='https://misavojtova.github.io/travel-git-recommendations/'
-        photo={travel4}
+        photo={travel}
       >
         <p>
           Project <u>Game App</u> was one day project to strengthen my knowledge

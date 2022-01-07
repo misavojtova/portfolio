@@ -101,18 +101,19 @@
     border-radius: 2rem;
   }
   .flip-card {
-    all: initial;
     display: flex;
     border-radius: 2rem;
     overflow: hidden;
+    height: initial;
   }
   .front {
-    all: initial;
+    position: initial;
     width: 50%;
   }
   .back {
-    all: initial;
     width: 50%;
+    position: initial;
+    transform: initial;
   }
   .flip-container:hover .flip-card {
     transform: initial;
