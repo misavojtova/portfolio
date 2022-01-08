@@ -119,10 +119,19 @@
     transform: initial;
   }
   .flip-card-wrapper {
-    width: auto;
     height: auto;
     width: auto;
     min-width: auto;
     min-height: auto;
+  }
+
+  .demo-btn {
+    background-color: #b9990b;
+    color: #1a2036;
+    transition: none;
+  }
+
+  .demo-btn:hover {
+    transform: none;
   }
 }

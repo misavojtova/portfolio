@@ -34,4 +34,11 @@
     flex-direction: row;
     height: 3rem;
   }
+  .icons-wrapper svg {
+    color: #b9990b;
+    transition: none;
+  }
+  .icons-wrapper svg:hover {
+    transform: none;
+  }
 }
