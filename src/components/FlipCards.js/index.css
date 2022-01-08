@@ -123,6 +123,9 @@
     width: auto;
     min-width: auto;
     min-height: auto;
+    position: sticky;
+    z-index: 1;
+    padding: 3rem 0;
   }
 
   .demo-btn {

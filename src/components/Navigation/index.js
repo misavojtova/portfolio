@@ -4,7 +4,7 @@ import "./index.css";
 
 function Navigation({ home, profile, github, linkedin, icon1, icon2, top }) {
   return (
-    <div className='navigation'>
+    <div className={`navigation ${top ? "top" : "bottom"}`}>
       {top ? (
         <div className='icons-wrapper'>
           <Link to={home}>{icon1}</Link>

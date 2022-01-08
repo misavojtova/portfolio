@@ -25,9 +25,10 @@
 @media only screen and (max-width: 890px) {
   .navigation {
     background-color: #1a2036;
-    height: auto;
-    width: auto;
-    position: sticky;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 2;
   }
 
   .icons-wrapper {
@@ -40,5 +41,12 @@
   }
   .icons-wrapper svg:hover {
     transform: none;
+  }
+  .navigation.top {
+    top: 0;
+    height: 3rem;
+  }
+  .navigation.bottom {
+    height: 3rem;
   }
 }
