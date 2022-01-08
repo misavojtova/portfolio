@@ -27,10 +27,11 @@
     background-color: #1a2036;
     height: auto;
     width: auto;
+    position: sticky;
   }
 
   .icons-wrapper {
     flex-direction: row;
-    height: 8vh;
+    height: 3rem;
   }
 }
