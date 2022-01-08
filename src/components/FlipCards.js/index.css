@@ -91,11 +91,11 @@
   .flip-container {
     background-color: #1a2036;
     height: 80%;
-    max-height: 350px;
-    min-height: 250px;
-    width: 60%;
-    max-width: 520px;
-    min-width: 310px;
+    max-height: 335px;
+    min-height: 205px;
+    width: 75%;
+    max-width: 540px;
+    min-width: 295px;
     margin: 2rem;
     display: flex;
     border-radius: 2rem;

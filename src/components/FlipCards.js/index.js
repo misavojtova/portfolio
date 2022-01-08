@@ -2,7 +2,7 @@ import React from "react";
 import project1 from "../../images/project1.png";
 import nasa from "../../images/nasa.png";
 import game from "../../images/game.png";
-import adele from "../../images/adele.jpeg";
+import adele from "../../images/adele.png";
 import travel from "../../images/travel.png";
 
 import Flip from "../../components/Flip";

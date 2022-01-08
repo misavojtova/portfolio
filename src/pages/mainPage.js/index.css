@@ -53,6 +53,11 @@ a {
 
 /* "mobile" from 800px */
 @media only screen and (max-width: 890px) {
+  .app {
+    height: 100%;
+    background-image: url("../../images/mobile.png");
+    background-attachment: fixed;
+  }
   .main-wrapper {
     height: 100%;
     width: 100%;
