@@ -4,9 +4,6 @@
   box-sizing: border-box;
 }
 
-/* body {
-  background-color: #1a2036;
-} */
 a {
   text-decoration: none;
 }
@@ -56,9 +53,11 @@ a {
   .app {
     height: 100%;
   }
+  html,
   body {
     height: auto;
     background-image: url("../../images/mobile.png");
+    overscroll-behavior: auto;
     background-attachment: fixed;
     background-position: top;
   }
