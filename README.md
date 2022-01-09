@@ -31,7 +31,7 @@ Resume project is my portfolio built in React.js, where you can find most of my 
 ## Project Example
 ![resume-pho](https://user-images.githubusercontent.com/64092039/148694317-9418b1aa-fee9-465e-91d2-3c31a5cebff3.png)
 
-Our Project is `Desktop` and `Mobile Responsive`!
+Project is `Desktop` and `Mobile Responsive`!
 
 ### Built With
 
