@@ -53,8 +53,7 @@ a {
   .app {
     height: 100%;
   }
-  html,
-  body {
+  html {
     height: auto;
     background-image: url("../../images/mobile.png");
     overscroll-behavior: auto;
