@@ -54,7 +54,7 @@ a {
 /* "mobile" from 800px */
 @media only screen and (max-width: 890px) {
   .app {
-    height: auto;
+    height: 100%;
     background-image: url("../../images/mobile.png");
     background-attachment: fixed;
     background-position: top;
