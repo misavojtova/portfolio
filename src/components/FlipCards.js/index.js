@@ -10,19 +10,18 @@ import "./index.css";
 function FlipCards() {
   return (
     <>
-      <Flip href='https://misavojtova.github.io/project-nasa/' photo={nasa}>
-        <p>
-          Project <u>Nasa</u> was built by a group of Junior Developers for
-          learning purposes. Fetching data from API, improving Html, Css,
-          JavaScript and React.js.
-        </p>
-      </Flip>
-
       <Flip href='https://misavojtova.github.io/music-app-final/' photo={adele}>
         <p>
           Project <u>Music App</u> was built in 24 hours in collaboration with
           Junior Developers to take part in competition which was organized by
           Wild Code School Academy.
+        </p>
+      </Flip>
+      <Flip href='https://misavojtova.github.io/project-nasa/' photo={nasa}>
+        <p>
+          Project <u>Nasa</u> was built by a group of Junior Developers for
+          learning purposes. Fetching data from API, improving Html, Css,
+          JavaScript and React.js.
         </p>
       </Flip>
 

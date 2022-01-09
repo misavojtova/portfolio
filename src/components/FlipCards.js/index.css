@@ -26,11 +26,11 @@
   transform-style: preserve-3d;
 }
 
-.flip-container:nth-child(1) img {
+/* .flip-container:nth-child(1) img {
   object-position: top;
-}
+} */
 .flip-container:nth-child(2) img {
-  object-position: left;
+  object-position: center;
 }
 
 .flip-container:hover .flip-card {
@@ -91,10 +91,10 @@
   .flip-container {
     background-color: #1a2036;
     height: 80%;
-    max-height: 335px;
+    max-height: 300px;
     min-height: 205px;
     width: 75%;
-    max-width: 540px;
+    max-width: 500px;
     min-width: 295px;
     margin: 2rem;
     display: flex;
@@ -123,8 +123,6 @@
     width: auto;
     min-width: auto;
     min-height: auto;
-    position: sticky;
-    z-index: 1;
     padding: 3rem 0;
   }
 

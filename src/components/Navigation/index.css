@@ -26,14 +26,13 @@
   .navigation {
     background-color: #1a2036;
     position: fixed;
-    bottom: 0;
-    width: 100%;
     z-index: 2;
   }
 
   .icons-wrapper {
     flex-direction: row;
     height: 3rem;
+    justify-content: space-around;
   }
   .icons-wrapper svg {
     color: #b9990b;
@@ -45,8 +44,12 @@
   .navigation.top {
     top: 0;
     height: 3rem;
+    width: 50%;
   }
   .navigation.bottom {
     height: 3rem;
+    width: 50%;
+    top: 0;
+    right: 0;
   }
 }
