@@ -10,14 +10,22 @@ import "./index.css";
 function FlipCards() {
   return (
     <>
-      <Flip href='https://misavojtova.github.io/music-app-final/' photo={adele}>
+      <Flip
+        href='https://misavojtova.github.io/music-app-final/'
+        photo={adele}
+        github='https://github.com/misavojtova/music-app-final'
+      >
         <p>
           Project <u>Music App</u> was built in 24 hours in collaboration with
           Junior Developers to take part in competition which was organized by
           Wild Code School Academy.
         </p>
       </Flip>
-      <Flip href='https://misavojtova.github.io/project-nasa/' photo={nasa}>
+      <Flip
+        href='https://misavojtova.github.io/project-nasa/'
+        photo={nasa}
+        github='https://github.com/misavojtova/project-nasa'
+      >
         <p>
           Project <u>Nasa</u> was built by a group of Junior Developers for
           learning purposes. Fetching data from API, improving Html, Css,
@@ -25,7 +33,11 @@ function FlipCards() {
         </p>
       </Flip>
 
-      <Flip href='https://vaniatavares.github.io/Project1/' photo={project1}>
+      <Flip
+        href='https://vaniatavares.github.io/Project1/'
+        photo={project1}
+        github='https://github.com/misavojtova/project1'
+      >
         <p>
           Project <u>From Zero</u> was made in collaboration with Junior
           Developers in group of five for practising Html, Css, Git Bash and
@@ -33,7 +45,11 @@ function FlipCards() {
         </p>
       </Flip>
 
-      <Flip photo={game} href='https://misavojtova.github.io/game-app/'>
+      <Flip
+        photo={game}
+        href='https://misavojtova.github.io/game-app/'
+        github='https://github.com/misavojtova/game-app'
+      >
         <p>
           Project <u>Game App</u> was one day project to strengthen my knowledge
           in React.js, fetching data from API, imporivng Html, Css, Javascript
@@ -44,6 +60,7 @@ function FlipCards() {
       <Flip
         href='https://misavojtova.github.io/travel-git-recommendations/'
         photo={travel}
+        github='https://github.com/misavojtova/travel-git-recommendations'
       >
         <p>
           Project <u>Game App</u> was one day project to strengthen my knowledge

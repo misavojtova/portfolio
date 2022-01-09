@@ -1,4 +1,6 @@
-function Flip({ photo, children, href }) {
+import { BsGithub } from "react-icons/bs";
+import "./index.css";
+function Flip({ photo, children, href, github }) {
   return (
     <div className='flip-container'>
       <div className='flip-card'>
@@ -8,12 +10,21 @@ function Flip({ photo, children, href }) {
 
         <div className='back'>
           <div className='demo-text'>{children}</div>
-
-          <button className='demo-btn'>
-            <a href={href} target='_blank' rel='noreferrer'>
-              Demo Here
+          <div className='flip-btn-wrap'>
+            <button className='demo-btn'>
+              <a href={href} target='_blank' rel='noreferrer'>
+                Live Demo
+              </a>
+            </button>
+            <a
+              className='hub-btn'
+              href={github}
+              target='_blank'
+              rel='noreferrer'
+            >
+              {<BsGithub />}
             </a>
-          </button>
+          </div>
         </div>
       </div>
     </div>
