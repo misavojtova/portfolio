@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 
-body {
+/* body {
   background-color: #1a2036;
-}
+} */
 a {
   text-decoration: none;
 }
@@ -55,18 +55,20 @@ a {
 @media only screen and (max-width: 890px) {
   .app {
     height: 100%;
+  }
+  body {
+    height: auto;
     background-image: url("../../images/mobile.png");
     background-attachment: fixed;
     background-position: top;
   }
   .main-wrapper {
-    height: 100%;
+    height: auto;
     width: 100%;
     display: block;
     border-radius: 0;
     max-width: initial;
     min-width: initial;
-    /* overflow: initial; */
     background-color: transparent;
   }
   #root {

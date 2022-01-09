@@ -2,7 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  /* border-radius: 3rem; */
   height: 67vh;
   min-height: 478px;
   width: 45vw;
@@ -26,9 +25,6 @@
   transform-style: preserve-3d;
 }
 
-/* .flip-container:nth-child(1) img {
-  object-position: top;
-} */
 .flip-container:nth-child(2) img {
   object-position: center;
 }
