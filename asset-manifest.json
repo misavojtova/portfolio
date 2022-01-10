@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/resume-2021/static/css/main.3fd89f40.chunk.css",
-    "main.js": "/resume-2021/static/js/main.44828aad.chunk.js",
-    "main.js.map": "/resume-2021/static/js/main.44828aad.chunk.js.map",
+    "main.css": "/resume-2021/static/css/main.5d7f6692.chunk.css",
+    "main.js": "/resume-2021/static/js/main.e80aec11.chunk.js",
+    "main.js.map": "/resume-2021/static/js/main.e80aec11.chunk.js.map",
     "runtime-main.js": "/resume-2021/static/js/runtime-main.33457ffc.js",
     "runtime-main.js.map": "/resume-2021/static/js/runtime-main.33457ffc.js.map",
-    "static/js/2.bdb631f8.chunk.js": "/resume-2021/static/js/2.bdb631f8.chunk.js",
-    "static/js/2.bdb631f8.chunk.js.map": "/resume-2021/static/js/2.bdb631f8.chunk.js.map",
+    "static/js/2.a748da00.chunk.js": "/resume-2021/static/js/2.a748da00.chunk.js",
+    "static/js/2.a748da00.chunk.js.map": "/resume-2021/static/js/2.a748da00.chunk.js.map",
     "index.html": "/resume-2021/index.html",
-    "static/css/main.3fd89f40.chunk.css.map": "/resume-2021/static/css/main.3fd89f40.chunk.css.map",
-    "static/js/2.bdb631f8.chunk.js.LICENSE.txt": "/resume-2021/static/js/2.bdb631f8.chunk.js.LICENSE.txt",
+    "static/css/main.5d7f6692.chunk.css.map": "/resume-2021/static/css/main.5d7f6692.chunk.css.map",
+    "static/js/2.a748da00.chunk.js.LICENSE.txt": "/resume-2021/static/js/2.a748da00.chunk.js.LICENSE.txt",
     "static/media/index.css": "/resume-2021/static/media/mobile.b9a94958.png",
-    "static/media/adele.b8a160ab.png": "/resume-2021/static/media/adele.b8a160ab.png",
+    "static/media/adele.bd280707.png": "/resume-2021/static/media/adele.bd280707.png",
     "static/media/game.720ff65e.png": "/resume-2021/static/media/game.720ff65e.png",
-    "static/media/nasa.94846aff.png": "/resume-2021/static/media/nasa.94846aff.png",
+    "static/media/nasa.0120ff29.png": "/resume-2021/static/media/nasa.0120ff29.png",
     "static/media/project1.8acb3b49.png": "/resume-2021/static/media/project1.8acb3b49.png",
     "static/media/travel.58edf2c3.png": "/resume-2021/static/media/travel.58edf2c3.png",
     "static/media/work.068412bf.mp4": "/resume-2021/static/media/work.068412bf.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.33457ffc.js",
-    "static/js/2.bdb631f8.chunk.js",
-    "static/css/main.3fd89f40.chunk.css",
-    "static/js/main.44828aad.chunk.js"
+    "static/js/2.a748da00.chunk.js",
+    "static/css/main.5d7f6692.chunk.css",
+    "static/js/main.e80aec11.chunk.js"
   ]
 }
