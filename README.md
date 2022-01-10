@@ -71,6 +71,6 @@ Michaela Vojtova
 - [Email](misacastella@gmail.com)
 
 
-Project Link: [https://github.com/misavojtova/resume-2021](https://github.com/misavojtova/resume-2021)
+Project Link: [https://misavojtova.github.io/resume-2021](https://misavojtova.github.io/resume-2021)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
