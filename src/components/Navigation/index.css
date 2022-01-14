@@ -31,7 +31,7 @@
 
   .icons-wrapper {
     flex-direction: row;
-    height: 3rem;
+    height: 3.2rem;
     justify-content: space-around;
   }
   .icons-wrapper svg {
@@ -43,11 +43,11 @@
   }
   .navigation.top {
     top: 0;
-    height: 3rem;
+    height: 3.2rem;
     width: 50%;
   }
   .navigation.bottom {
-    height: 3rem;
+    height: 3.2rem;
     width: 50%;
     top: 0;
     right: 0;

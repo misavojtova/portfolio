@@ -7,8 +7,9 @@ import "./index.css";
 
 import FlipCards from "../../components/FlipCards.js/index.js";
 import Navigation from "../../components/Navigation";
+import ProfileContent from "../../components/ProfileContent";
 
-function MainPage({ center, profile }) {
+function MainPage({ profile }) {
   return (
     <main className='app'>
       <section className='main-wrapper'>
@@ -21,7 +22,7 @@ function MainPage({ center, profile }) {
         />
 
         <div className='flip-card-wrapper'>
-          {profile ? center : <FlipCards />}
+          {profile ? <ProfileContent /> : <FlipCards />}
         </div>
 
         <Navigation
