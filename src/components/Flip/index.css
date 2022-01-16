@@ -9,7 +9,6 @@
 }
 
 .flip-container {
-  height: 32vh;
   min-height: 230px;
   min-width: 184px;
   width: 12vw;
@@ -101,7 +100,6 @@
 @media only screen and (max-width: 890px) {
   .flip-container {
     background-color: #1a2036;
-    height: 37vh;
     max-height: 300px;
     min-height: 205px;
     width: 75%;
