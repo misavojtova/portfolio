@@ -63,9 +63,9 @@ function FlipCards() {
         github='https://github.com/misavojtova/travel-git-recommendations'
       >
         <p>
-          Project <u>Game App</u> was one day project to strengthen my knowledge
-          in React.js, fetching data from API, imporivng Html, Css, Javascript
-          and workflow in Git Bash and Github.
+          Project <u>Travel Reccommendations</u> was one of my first projects
+          that I coded. I was Experimenting in JavaScript, HTML and CSS to
+          create mobile responsive desing.
         </p>
       </Flip>
       <Flip></Flip>

@@ -58,6 +58,15 @@ html {
 
 /* "mobile" from 800px */
 @media only screen and (max-width: 890px) {
+  html {
+    background-image: none;
+    background: linear-gradient(
+      90deg,
+      rgba(205, 214, 219, 1) 18%,
+      rgba(213, 221, 226, 1) 59%,
+      rgba(213, 221, 226, 1) 95%
+    );
+  }
   .my-name {
     color: #242b42ab;
     bottom: 10px;
