@@ -11,6 +11,7 @@
 .flip-container {
   min-height: 230px;
   min-width: 184px;
+  height: 32vh;
   width: 12vw;
   perspective: 1000px;
 }
@@ -74,7 +75,6 @@
   border: none;
   padding: 0.5rem;
   background-color: white;
-  color: #1a2036;
   transition: background-color 0.25s ease-in, transform 0.25s ease-in;
 }
 .hub-btn > svg {
@@ -87,7 +87,9 @@
 .demo-btn a:visited {
   color: black;
 }
-
+.demo-btn a {
+  color: #1a2036;
+}
 .demo-btn:hover {
   transform: scale(1.15);
   background-color: #b9990b;
@@ -99,16 +101,19 @@
 
 @media only screen and (max-width: 890px) {
   .flip-container {
+    aspect-ratio: attr(16) / attr(10);
+    aspect-ratio: 16/10;
     background-color: #1a2036;
     max-height: 300px;
     min-height: 205px;
     width: 75%;
-    max-width: 500px;
+    max-width: 430px;
     min-width: 295px;
     margin: 2rem;
     display: flex;
     border-radius: 1rem;
     overflow: hidden;
+    height: auto;
   }
   .flip-card {
     display: flex;
