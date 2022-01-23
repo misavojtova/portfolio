@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/resume-2021/static/css/main.2edd2521.chunk.css",
-    "main.js": "/resume-2021/static/js/main.394ec536.chunk.js",
-    "main.js.map": "/resume-2021/static/js/main.394ec536.chunk.js.map",
+    "main.js": "/resume-2021/static/js/main.761be66d.chunk.js",
+    "main.js.map": "/resume-2021/static/js/main.761be66d.chunk.js.map",
     "runtime-main.js": "/resume-2021/static/js/runtime-main.33457ffc.js",
     "runtime-main.js.map": "/resume-2021/static/js/runtime-main.33457ffc.js.map",
     "static/js/2.a748da00.chunk.js": "/resume-2021/static/js/2.a748da00.chunk.js",
@@ -14,7 +14,7 @@
     "static/media/adele.bd280707.png": "/resume-2021/static/media/adele.bd280707.png",
     "static/media/circle.020dc891.png": "/resume-2021/static/media/circle.020dc891.png",
     "static/media/cv-2.979baf59.png": "/resume-2021/static/media/cv-2.979baf59.png",
-    "static/media/cv.8c15dbaa.pdf": "/resume-2021/static/media/cv.8c15dbaa.pdf",
+    "static/media/cv.59e18d05.pdf": "/resume-2021/static/media/cv.59e18d05.pdf",
     "static/media/game.720ff65e.png": "/resume-2021/static/media/game.720ff65e.png",
     "static/media/nasa.0120ff29.png": "/resume-2021/static/media/nasa.0120ff29.png",
     "static/media/project1.8acb3b49.png": "/resume-2021/static/media/project1.8acb3b49.png",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.33457ffc.js",
     "static/js/2.a748da00.chunk.js",
     "static/css/main.2edd2521.chunk.css",
-    "static/js/main.394ec536.chunk.js"
+    "static/js/main.761be66d.chunk.js"
   ]
 }
