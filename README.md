@@ -13,7 +13,7 @@
 Resume project is my portfolio built in React.js, where you can find most of my projects in one place and save time. The reason why I built this project is to show recruiters my work with the possibility to see my CV, source code of each project or public URL.
   <p align="center">
     <br />
-    <a href="https://misavojtova.github.io/resume">CLICK << View Resume Project Portfolio</a>
+    <a href="https://misavojtova.github.io/resume-2021">CLICK << View Resume Project Portfolio</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
