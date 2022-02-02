@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd25ad57.chunk.css",
-    "main.js": "/static/js/main.761be66d.chunk.js",
-    "main.js.map": "/static/js/main.761be66d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0b2b6b5d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0b2b6b5d.js.map",
-    "static/js/2.a748da00.chunk.js": "/static/js/2.a748da00.chunk.js",
-    "static/js/2.a748da00.chunk.js.map": "/static/js/2.a748da00.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.cd25ad57.chunk.css.map": "/static/css/main.cd25ad57.chunk.css.map",
-    "static/js/2.a748da00.chunk.js.LICENSE.txt": "/static/js/2.a748da00.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/mobile.b9a94958.png",
-    "static/media/adele.bd280707.png": "/static/media/adele.bd280707.png",
-    "static/media/circle.020dc891.png": "/static/media/circle.020dc891.png",
-    "static/media/cv-2.979baf59.png": "/static/media/cv-2.979baf59.png",
-    "static/media/cv.59e18d05.pdf": "/static/media/cv.59e18d05.pdf",
-    "static/media/game.720ff65e.png": "/static/media/game.720ff65e.png",
-    "static/media/nasa.0120ff29.png": "/static/media/nasa.0120ff29.png",
-    "static/media/project1.8acb3b49.png": "/static/media/project1.8acb3b49.png",
-    "static/media/travel.58edf2c3.png": "/static/media/travel.58edf2c3.png"
+    "main.css": "/resume/static/css/main.65e3ab4c.chunk.css",
+    "main.js": "/resume/static/js/main.b83bf2c3.chunk.js",
+    "main.js.map": "/resume/static/js/main.b83bf2c3.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.966cd769.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.966cd769.js.map",
+    "static/js/2.a748da00.chunk.js": "/resume/static/js/2.a748da00.chunk.js",
+    "static/js/2.a748da00.chunk.js.map": "/resume/static/js/2.a748da00.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/main.65e3ab4c.chunk.css.map": "/resume/static/css/main.65e3ab4c.chunk.css.map",
+    "static/js/2.a748da00.chunk.js.LICENSE.txt": "/resume/static/js/2.a748da00.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/resume/static/media/mobile.b9a94958.png",
+    "static/media/adele.bd280707.png": "/resume/static/media/adele.bd280707.png",
+    "static/media/circle.020dc891.png": "/resume/static/media/circle.020dc891.png",
+    "static/media/cv-2.979baf59.png": "/resume/static/media/cv-2.979baf59.png",
+    "static/media/cv.59e18d05.pdf": "/resume/static/media/cv.59e18d05.pdf",
+    "static/media/game.720ff65e.png": "/resume/static/media/game.720ff65e.png",
+    "static/media/nasa.0120ff29.png": "/resume/static/media/nasa.0120ff29.png",
+    "static/media/project1.8acb3b49.png": "/resume/static/media/project1.8acb3b49.png",
+    "static/media/travel.58edf2c3.png": "/resume/static/media/travel.58edf2c3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b2b6b5d.js",
+    "static/js/runtime-main.966cd769.js",
     "static/js/2.a748da00.chunk.js",
-    "static/css/main.cd25ad57.chunk.css",
-    "static/js/main.761be66d.chunk.js"
+    "static/css/main.65e3ab4c.chunk.css",
+    "static/js/main.b83bf2c3.chunk.js"
   ]
 }
