@@ -6,7 +6,7 @@ import "./fonts/Abel-Regular.ttf";
 import "./index.css";
 
 ReactDOM.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter>
     <App />
   </BrowserRouter>,
   document.getElementById("root")
