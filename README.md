@@ -1,4 +1,3 @@
-
 <!-- ABOUT THE PROJECT -->
 <div id="top"></div>
 
@@ -13,7 +12,7 @@
 Resume project is my portfolio built in React.js, where you can find most of my projects in one place and save time. The reason why I built this project is to show recruiters my work with the possibility to see my CV, source code of each project or public URL.
   <p align="center">
     <br />
-    <a href="https://misavojtova.github.io/resume-2021">CLICK << View Resume Project Portfolio</a>
+    <a href="https://misavojtova.github.io/resume">CLICK << View Resume Project Portfolio</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -28,6 +27,7 @@ Resume project is my portfolio built in React.js, where you can find most of my 
 </details>
 
 ## Project Example
+
 ![resume-pho](https://user-images.githubusercontent.com/64092039/148694317-9418b1aa-fee9-465e-91d2-3c31a5cebff3.png)
 
 Project is `Desktop` and `Mobile Responsive`!
@@ -69,7 +69,6 @@ Michaela Vojtova
 - [GitHub](https://github.com/misavojtova)
 - [Email](misacastella@gmail.com)
 
-
-Project Link: [https://misavojtova.github.io/resume-2021](https://misavojtova.github.io/resume-2021)
+Project Link: [https://misavojtova.github.io/resume](https://misavojtova.github.io/resume)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

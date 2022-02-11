@@ -15,7 +15,7 @@ function MainPage({ profile }) {
       <section className='main-wrapper'>
         <Navigation
           top={true}
-          home='/resume-2021'
+          home='/resume'
           icon1={<AiFillHome />}
           profile='/profile-page'
           icon2={<CgProfile />}

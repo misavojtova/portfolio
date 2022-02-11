@@ -21,7 +21,7 @@ function App() {
       {/* {windowSize > 890 && <Background />} */}
 
       <Routes>
-        <Route path='/resume-2021' element={<MainPage />} />
+        <Route path='/resume' element={<MainPage />} />
         <Route path='/profile-page' element={<ProfilePage />} />
       </Routes>
     </>
