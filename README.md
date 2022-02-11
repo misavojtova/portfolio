@@ -8,11 +8,11 @@
     <img src="https://user-images.githubusercontent.com/64092039/148694262-49986a79-c91d-4fd2-b8d9-552cad33727b.png" alt="Logo" width="150" height="150">
   </a>
 
-<h3 align="center">RESUME</h3>
-Resume project is my portfolio built in React.js, where you can find most of my projects in one place and save time. The reason why I built this project is to show recruiters my work with the possibility to see my CV, source code of each project or public URL.
+<h3 align="center">Portfolio</h3>
+My portfolio is built in React.js. You can find most of my projects there and save time in the process of getting know my skill's level. The reason why I built this project is to show my work with the possibility to see my CV, source code of each project or public URL in one place.
   <p align="center">
     <br />
-    <a href="https://misavojtova.github.io/resume">CLICK << View Resume Project Portfolio</a>
+    <a href="https://misavojtova.github.io/portfolio">CLICK << View Portfolio</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -69,6 +69,6 @@ Michaela Vojtova
 - [GitHub](https://github.com/misavojtova)
 - [Email](misacastella@gmail.com)
 
-Project Link: [https://misavojtova.github.io/resume](https://misavojtova.github.io/resume)
+Project Link: [https://misavojtova.github.io/portfolio](https://misavojtova.github.io/portfolio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

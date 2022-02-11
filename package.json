@@ -1,6 +1,6 @@
 {
-  "homepage": "http://misavojtova.github.io/resume",
-  "name": "resume",
+  "homepage": "http://misavojtova.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
