@@ -1,5 +1,5 @@
 import React from "react";
-import MainPage from "../MainPage.js/index.js";
+import MainPage from "../MainPage/index.js";
 
 function ProfilePage() {
   return (

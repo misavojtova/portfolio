@@ -1,30 +1,14 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { Routes, Route } from "react-router-dom";
-import MainPage from "./pages/MainPage.js/index.js";
-import ProfilePage from "./pages/ProfilePage.js/index.js";
-// import Background from "../src/components/Background";
+import MainPage from "./pages/MainPage/index.js";
+import ProfilePage from "./pages/ProfilePage/index.js";
+
 function App() {
-  // const [windowSize, setWindowSize] = useState(window.innerWidth);
-
-  // const onResize = () => {
-  //   setWindowSize(window.innerWidth);
-  // };
-
-  // useEffect(() => {
-  //   window.addEventListener("resize", onResize);
-  //   return () => {
-  //     window.removeEventListener("resize", onResize);
-  //   };
-  // }, [windowSize]);
   return (
-    <>
-      {/* {windowSize > 890 && <Background />} */}
-
-      <Routes>
-        <Route path='/portfolio' element={<MainPage />} />
-        <Route path='/profile-page' element={<ProfilePage />} />
-      </Routes>
-    </>
+    <Routes>
+      <Route path='/portfolio' element={<MainPage />} />
+      <Route path='/profile-page' element={<ProfilePage />} />
+    </Routes>
   );
 }
 
