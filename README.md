@@ -9,7 +9,7 @@
   </a>
 
 <h3 align="center">Portfolio</h3>
-My portfolio is built in React.js. You can find most of my projects there and save time in the process of getting know my skill's level. The reason why I built this project is to show my work with the possibility to see my CV, source code of each project or public URL in one place.
+My portfolio is built in React.js. You can find most of my projects there and save time in the process of getting to know my skill's level. The reason why I built this project is to show my work with the possibility to see my CV, source code of each project or public URL in one place.
   <p align="center">
     <br />
     <a href="https://misavojtova.github.io/portfolio">CLICK << View Portfolio</a>
