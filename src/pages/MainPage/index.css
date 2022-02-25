@@ -10,7 +10,7 @@ a {
 
 html {
   height: auto;
-  background-image: url("../../images/mobile.png");
+  background-image: url("../../assets/images/mobile.png");
   overscroll-behavior: auto;
   background-attachment: fixed;
   background-position: top;
@@ -21,18 +21,6 @@ html {
   justify-content: center;
   align-items: center;
   font-family: "AbelRegular";
-}
-
-.video {
-  position: fixed;
-  z-index: -1;
-  width: 100%;
-  left: 50%;
-  top: 50%;
-  height: 100%;
-  object-fit: cover;
-  transform: translate(-50%, -50%);
-  display: flex;
 }
 
 .main-wrapper {

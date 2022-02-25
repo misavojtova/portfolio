@@ -1,4 +1,5 @@
 @font-face {
   font-family: "AbelRegular";
-  src: local("AbelRegular"), url("./fonts/Abel-Regular.ttf") format("truetype");
+  src: local("AbelRegular"),
+    url("./assets/fonts/Abel-Regular.ttf") format("truetype");
 }

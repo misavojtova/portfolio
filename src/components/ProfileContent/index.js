@@ -1,7 +1,7 @@
 import React from "react";
-import CV from "../../images/cv-2.png";
-import pdf from "../../files/cv.pdf";
-import pic from "../../images/circle.png";
+import CV from "../../assets/images/cv-2.png";
+import pdf from "../../assets/files/cv.pdf";
+import pic from "../../assets/images/circle.png";
 import "./index.css";
 function ProfileContent() {
   return (

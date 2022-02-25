@@ -22,6 +22,14 @@
   color: #b9990b;
 }
 
+.hide {
+  display: none;
+}
+
+.icons-wrapper:hover .hide.prof {
+  display: block;
+}
+
 @media only screen and (max-width: 890px) {
   .navigation {
     background-color: #1a2036;
